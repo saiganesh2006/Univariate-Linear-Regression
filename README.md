@@ -45,9 +45,9 @@ plt.show()
 ## Output:
 ![image](https://github.com/saiganesh2006/Univariate-Linear-Regression/assets/145742342/e82d5bd3-9b27-4f79-8162-ddf92143e7cb)
 ## In Graphical Method:
-(i)
 ![image](https://github.com/saiganesh2006/Univariate-Linear-Regression/assets/145742342/c130fe22-e33e-4d1a-aee5-f194c9019025)
-(ii)
+
+
 ![image](https://github.com/saiganesh2006/Univariate-Linear-Regression/assets/145742342/941c2d28-894c-4c58-94e3-39500dfc92e6)
 
 ## Result
